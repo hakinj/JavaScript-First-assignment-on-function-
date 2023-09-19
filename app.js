@@ -1,7 +1,7 @@
 name = prompt("enter name");
 weight = Number(prompt("enter weight in kg to covert to pounds"));
 
-function bio(a, b){
+function bio(name, weight){
     name;
     weight;
     pounds = weight/2.2046;
